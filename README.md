@@ -13,11 +13,11 @@ I'm using cloud_firestore 4.4.1, firebase_core 2.6.0
 
 <p float="left">
 
-<img src="web/icons/image_1.jpeg" width="35%" height="35%">
-<img src="web/icons/image_2.jpeg" width="35%" height="35%">
-<img src="web/icons/image_3.jpeg" width="35%" height="35%">
-<img src="web/icons/image_4.jpeg" width="35%" height="35%">
-<img src="web/icons/image_5.jpeg" width="35%" height="35%">
+<img src="web/icons/image_1.jpeg" width="200" height="35%">
+<img src="web/icons/image_2.jpeg" width="200" height="35%">
+<img src="web/icons/image_3.jpeg" width="200" height="35%">
+<img src="web/icons/image_4.jpeg" width="200" height="35%">
+<img src="web/icons/image_5.jpeg" width="200" height="35%">
 
 # Packages
 
