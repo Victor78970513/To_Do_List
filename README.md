@@ -18,3 +18,9 @@ I'm using cloud_firestore 4.4.1, firebase_core 2.6.0
 <img src="web/icons/image_3.jpeg" width="35%" height="35%">
 <img src="web/icons/image_4.jpeg" width="35%" height="35%">
 <img src="web/icons/image_5.jpeg" width="35%" height="35%">
+
+# Packages
+
+- [cloud_firestore](https://pub.dev/packages/cloud_firestore)
+- [firebase_core](https://pub.dev/packages/firebase_core)
+- [provider](https://pub.dev/packages/provider)
